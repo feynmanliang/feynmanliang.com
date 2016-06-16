@@ -1,3 +1,25 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+contentdir = "content"
+publishdir = "public"
+builddrafts = false
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+canonifyurls = true
+title = "⊆Feynman Liang"
+author = "Feynman Liang"
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+
+[indexes]
+   category = "categories"
+   tag = "tags"
+[Params]
+  AuthorName = "Feynman"
+  github = "feynmanliang"
+  bitbucket = "feynmanliang"
+  email = "feynman.liang@gmail.com"
+  description = "Machine Learning ∪ Software Engineering"
+  cv = "/pages/cv"
+  legalnotice = "/pages/legal-notice"
+  disqus = "fliang"
+  linkedin = "feynman"
+  cover = "/images/background-cover.jpg"
+  logo = "/img/logo-1.jpg"
