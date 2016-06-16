@@ -1,6 +1,6 @@
 +++
-date = "2016-06-16T23:10:39+01:00"
-draft = true
+date = "2016-06-16T23:44:43+01:00"
+draft = false
 title = "hugo migration"
 
 +++
